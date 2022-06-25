@@ -1,7 +1,7 @@
 # Bot-Monkeytype
 This bot makes it easy for you to show off your typing speed automatically without having to type manually
 
-<br><br>
+<br>
 <hr>
 <h2>Usage:</h2>
 
